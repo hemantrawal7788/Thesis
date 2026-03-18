@@ -1,0 +1,11 @@
+class,test_support,unstable
+Backdoor,0,True
+Analysis,1,True
+DoS,1,True
+Shellcode,1,True
+Worms,1,True
+Reconnaissance,3,True
+Generic,5,False
+Fuzzers,6,False
+Exploits,7,False
+Benign,425,False

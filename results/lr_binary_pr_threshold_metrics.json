@@ -1,0 +1,15 @@
+{
+  "threshold_selected_on": "validation",
+  "selection_rule": "max_f1_on_pr_curve",
+  "threshold": 0.9257775546068464,
+  "test_average_precision": 0.8480103368279096,
+  "test_precision_attack": 0.9047619047619048,
+  "test_recall_attack": 0.76,
+  "test_f1_attack": 0.8260869565217391,
+  "confusion_matrix": {
+    "TN": 423,
+    "FP": 2,
+    "FN": 6,
+    "TP": 19
+  }
+}

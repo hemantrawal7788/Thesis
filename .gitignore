@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Local data (uncomment if you do NOT want to commit datasets)
+# data/
+# *.zip
+
+# OS
+.DS_Store
+
+# Model artifacts
+*.pt
+*.pth
