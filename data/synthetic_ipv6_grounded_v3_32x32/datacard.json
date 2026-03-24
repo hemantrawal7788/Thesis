@@ -1,0 +1,10 @@
+{
+  "name": "Synthetic IPv6 Intrusion Dataset (Grounded) v3",
+  "version": "3.0",
+  "created_utc": "2026-02-10T18:11:12.276612+00:00",
+  "seed": 42,
+  "size_records": 3000,
+  "image_size": "32x32 grayscale",
+  "min_per_class": 2,
+  "grounding": "Label priors derived from NF-UNSW-NB15-v3 published class counts."
+}
